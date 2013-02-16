@@ -101,7 +101,8 @@ PLAYER_ONE now has 1 Gold Coins.
 PLAYER_TWO is the current player
 They have rolled a 4
 PLAYER_TWO's new location is 10
-The category is Sport
+The category is Sports
+Sports Question 3
 Question was incorrectly answered
 PLAYER_TWO was sent to the penalty box
 PLAYER_THREE is the current player
@@ -146,14 +147,15 @@ PLAYER_TWO is not getting out of the penalty box
 PLAYER_THREE is the current player
 They have rolled a 1
 PLAYER_THREE's new location is 10
-The category is Sport
+The category is Sports
+Sports Question 4
 Question was incorrectly answered
 PLAYER_THREE was sent to the penalty box
 PLAYER_FOUR is the current player
 They have rolled a 1
 PLAYER_FOUR's new location is 6
 The category is Sports
-Sports Question 3
+Sports Question 5
 Answer was corrent!!!!
 PLAYER_FOUR now has 4 Gold Coins.
 PLAYER_FIVE is the current player
@@ -400,7 +402,8 @@ PLAYER_FOUR now has 4 Gold Coins.
 PLAYER_FIVE is the current player
 They have rolled a 3
 PLAYER_FIVE's new location is 10
-The category is Sport
+The category is Sports
+Sports Question 4
 Answer was corrent!!!!
 PLAYER_FIVE now has 4 Gold Coins.
 PLAYER_SIX is the current player
@@ -422,14 +425,15 @@ PLAYER_TWO is the current player
 They have rolled a 3
 PLAYER_TWO is getting out of the penalty box
 PLAYER_TWO's new location is 10
-The category is Sport
+The category is Sports
+Sports Question 5
 Answer was correct!!!!
 PLAYER_TWO now has 3 Gold Coins.
 PLAYER_THREE is the current player
 They have rolled a 2
 PLAYER_THREE's new location is 2
 The category is Sports
-Sports Question 4
+Sports Question 6
 Answer was corrent!!!!
 PLAYER_THREE now has 5 Gold Coins.
 PLAYER_FOUR is the current player
@@ -443,7 +447,7 @@ PLAYER_FIVE is the current player
 They have rolled a 4
 PLAYER_FIVE's new location is 2
 The category is Sports
-Sports Question 5
+Sports Question 7
 Question was incorrectly answered
 PLAYER_FIVE was sent to the penalty box
 PLAYER_SIX is the current player
@@ -468,7 +472,7 @@ PLAYER_THREE is the current player
 They have rolled a 4
 PLAYER_THREE's new location is 6
 The category is Sports
-Sports Question 6
+Sports Question 8
 Answer was corrent!!!!
 PLAYER_THREE now has 6 Gold Coins.
 PLAYER_ONE was added
@@ -563,7 +567,8 @@ PLAYER_FIVE now has 2 Gold Coins.
 PLAYER_SIX is the current player
 They have rolled a 5
 PLAYER_SIX's new location is 10
-The category is Sport
+The category is Sports
+Sports Question 2
 Question was incorrectly answered
 PLAYER_SIX was sent to the penalty box
 PLAYER_ONE is the current player
@@ -597,7 +602,8 @@ PLAYER_FOUR now has 3 Gold Coins.
 PLAYER_FIVE is the current player
 They have rolled a 3
 PLAYER_FIVE's new location is 10
-The category is Sport
+The category is Sports
+Sports Question 3
 Answer was corrent!!!!
 PLAYER_FIVE now has 3 Gold Coins.
 PLAYER_SIX is the current player
@@ -612,7 +618,7 @@ PLAYER_ONE is the current player
 They have rolled a 3
 PLAYER_ONE's new location is 2
 The category is Sports
-Sports Question 2
+Sports Question 4
 Question was incorrectly answered
 PLAYER_ONE was sent to the penalty box
 PLAYER_TWO is the current player
@@ -701,7 +707,8 @@ PLAYER_TWO is the current player
 They have rolled a 5
 PLAYER_TWO is getting out of the penalty box
 PLAYER_TWO's new location is 10
-The category is Sport
+The category is Sports
+Sports Question 5
 Answer was correct!!!!
 PLAYER_TWO now has 5 Gold Coins.
 PLAYER_THREE is the current player
@@ -718,7 +725,8 @@ PLAYER_FOUR is not getting out of the penalty box
 PLAYER_FIVE is the current player
 They have rolled a 5
 PLAYER_FIVE's new location is 10
-The category is Sport
+The category is Sports
+Sports Question 6
 Answer was corrent!!!!
 PLAYER_FIVE now has 6 Gold Coins.
 PLAYER_ONE was added
@@ -837,7 +845,8 @@ PLAYER_FOUR is not getting out of the penalty box
 PLAYER_FIVE is the current player
 They have rolled a 3
 PLAYER_FIVE's new location is 10
-The category is Sport
+The category is Sports
+Sports Question 2
 Answer was corrent!!!!
 PLAYER_FIVE now has 3 Gold Coins.
 PLAYER_SIX is the current player
@@ -851,7 +860,7 @@ PLAYER_ONE is the current player
 They have rolled a 2
 PLAYER_ONE's new location is 2
 The category is Sports
-Sports Question 2
+Sports Question 3
 Answer was corrent!!!!
 PLAYER_ONE now has 4 Gold Coins.
 PLAYER_TWO is the current player
@@ -905,7 +914,7 @@ PLAYER_THREE is the current player
 They have rolled a 3
 PLAYER_THREE's new location is 2
 The category is Sports
-Sports Question 3
+Sports Question 4
 Answer was corrent!!!!
 PLAYER_THREE now has 5 Gold Coins.
 PLAYER_FOUR is the current player
@@ -920,13 +929,14 @@ PLAYER_FIVE is the current player
 They have rolled a 3
 PLAYER_FIVE's new location is 2
 The category is Sports
-Sports Question 4
+Sports Question 5
 Answer was corrent!!!!
 PLAYER_FIVE now has 5 Gold Coins.
 PLAYER_SIX is the current player
 They have rolled a 1
 PLAYER_SIX's new location is 10
-The category is Sport
+The category is Sports
+Sports Question 6
 Answer was corrent!!!!
 PLAYER_SIX now has 5 Gold Coins.
 PLAYER_ONE is the current player
@@ -940,7 +950,8 @@ PLAYER_TWO is the current player
 They have rolled a 1
 PLAYER_TWO is getting out of the penalty box
 PLAYER_TWO's new location is 10
-The category is Sport
+The category is Sports
+Sports Question 7
 Answer was correct!!!!
 PLAYER_TWO now has 3 Gold Coins.
 PLAYER_THREE is the current player
@@ -1296,7 +1307,8 @@ PLAYER_ONE now has 3 Gold Coins.
 PLAYER_TWO is the current player
 They have rolled a 1
 PLAYER_TWO's new location is 10
-The category is Sport
+The category is Sports
+Sports Question 5
 Answer was corrent!!!!
 PLAYER_TWO now has 3 Gold Coins.
 PLAYER_THREE is the current player
@@ -1317,7 +1329,8 @@ PLAYER_FOUR now has 3 Gold Coins.
 PLAYER_FIVE is the current player
 They have rolled a 3
 PLAYER_FIVE's new location is 10
-The category is Sport
+The category is Sports
+Sports Question 6
 Answer was corrent!!!!
 PLAYER_FIVE now has 3 Gold Coins.
 PLAYER_SIX is the current player
@@ -1330,7 +1343,8 @@ PLAYER_SIX now has 3 Gold Coins.
 PLAYER_ONE is the current player
 They have rolled a 2
 PLAYER_ONE's new location is 10
-The category is Sport
+The category is Sports
+Sports Question 7
 Answer was corrent!!!!
 PLAYER_ONE now has 4 Gold Coins.
 PLAYER_TWO is the current player
@@ -1352,7 +1366,7 @@ PLAYER_FOUR is the current player
 They have rolled a 1
 PLAYER_FOUR's new location is 2
 The category is Sports
-Sports Question 5
+Sports Question 8
 Answer was corrent!!!!
 PLAYER_FOUR now has 4 Gold Coins.
 PLAYER_FIVE is the current player
@@ -1373,7 +1387,7 @@ PLAYER_ONE is the current player
 They have rolled a 4
 PLAYER_ONE's new location is 2
 The category is Sports
-Sports Question 6
+Sports Question 9
 Answer was corrent!!!!
 PLAYER_ONE now has 5 Gold Coins.
 PLAYER_TWO is the current player
@@ -1395,7 +1409,7 @@ PLAYER_FOUR is the current player
 They have rolled a 4
 PLAYER_FOUR's new location is 6
 The category is Sports
-Sports Question 7
+Sports Question 10
 Answer was corrent!!!!
 PLAYER_FOUR now has 5 Gold Coins.
 PLAYER_FIVE is the current player
@@ -1521,7 +1535,8 @@ PLAYER_ONE now has 3 Gold Coins.
 PLAYER_TWO is the current player
 They have rolled a 3
 PLAYER_TWO's new location is 10
-The category is Sport
+The category is Sports
+Sports Question 5
 Answer was corrent!!!!
 PLAYER_TWO now has 3 Gold Coins.
 PLAYER_THREE is the current player
@@ -1604,7 +1619,8 @@ PLAYER_TWO now has 5 Gold Coins.
 PLAYER_THREE is the current player
 They have rolled a 1
 PLAYER_THREE's new location is 10
-The category is Sport
+The category is Sports
+Sports Question 6
 Answer was corrent!!!!
 PLAYER_THREE now has 5 Gold Coins.
 PLAYER_FOUR is the current player
@@ -1614,7 +1630,7 @@ PLAYER_FIVE is the current player
 They have rolled a 5
 PLAYER_FIVE's new location is 2
 The category is Sports
-Sports Question 5
+Sports Question 7
 Answer was corrent!!!!
 PLAYER_FIVE now has 5 Gold Coins.
 PLAYER_SIX is the current player
@@ -1816,7 +1832,8 @@ PLAYER_TWO is the current player
 They have rolled a 3
 PLAYER_TWO is getting out of the penalty box
 PLAYER_TWO's new location is 10
-The category is Sport
+The category is Sports
+Sports Question 5
 Answer was correct!!!!
 PLAYER_TWO now has 3 Gold Coins.
 PLAYER_THREE is the current player
@@ -1858,7 +1875,7 @@ PLAYER_THREE is the current player
 They have rolled a 3
 PLAYER_THREE's new location is 2
 The category is Sports
-Sports Question 5
+Sports Question 6
 Answer was corrent!!!!
 PLAYER_THREE now has 6 Gold Coins.
 PLAYER_ONE was added
@@ -1988,7 +2005,8 @@ PLAYER_FOUR now has 3 Gold Coins.
 PLAYER_FIVE is the current player
 They have rolled a 2
 PLAYER_FIVE's new location is 10
-The category is Sport
+The category is Sports
+Sports Question 4
 Answer was corrent!!!!
 PLAYER_FIVE now has 3 Gold Coins.
 PLAYER_SIX is the current player
@@ -2001,7 +2019,7 @@ They have rolled a 5
 PLAYER_ONE is getting out of the penalty box
 PLAYER_ONE's new location is 6
 The category is Sports
-Sports Question 4
+Sports Question 5
 Question was incorrectly answered
 PLAYER_ONE was sent to the penalty box
 PLAYER_TWO is the current player
@@ -2012,7 +2030,7 @@ They have rolled a 3
 PLAYER_THREE is getting out of the penalty box
 PLAYER_THREE's new location is 2
 The category is Sports
-Sports Question 5
+Sports Question 6
 Answer was correct!!!!
 PLAYER_THREE now has 3 Gold Coins.
 PLAYER_FOUR is the current player
@@ -2033,7 +2051,8 @@ PLAYER_SIX is the current player
 They have rolled a 1
 PLAYER_SIX is getting out of the penalty box
 PLAYER_SIX's new location is 10
-The category is Sport
+The category is Sports
+Sports Question 7
 Answer was correct!!!!
 PLAYER_SIX now has 2 Gold Coins.
 PLAYER_ONE is the current player
@@ -2059,7 +2078,7 @@ PLAYER_FOUR is the current player
 They have rolled a 1
 PLAYER_FOUR's new location is 2
 The category is Sports
-Sports Question 6
+Sports Question 8
 Answer was corrent!!!!
 PLAYER_FOUR now has 5 Gold Coins.
 PLAYER_FIVE is the current player
@@ -2087,14 +2106,15 @@ PLAYER_THREE is the current player
 They have rolled a 3
 PLAYER_THREE is getting out of the penalty box
 PLAYER_THREE's new location is 10
-The category is Sport
+The category is Sports
+Sports Question 9
 Answer was correct!!!!
 PLAYER_THREE now has 4 Gold Coins.
 PLAYER_FOUR is the current player
 They have rolled a 4
 PLAYER_FOUR's new location is 6
 The category is Sports
-Sports Question 7
+Sports Question 10
 Answer was corrent!!!!
 PLAYER_FOUR now has 6 Gold Coins.
 PLAYER_ONE was added

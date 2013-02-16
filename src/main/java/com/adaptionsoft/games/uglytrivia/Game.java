@@ -19,7 +19,7 @@ public class Game {
 	boolean isGettingOutOfPenaltyBox;
 
 	public Game() {
-		players = new ArrayList<>();
+		players = new ArrayList<String>();
 		for (int i = 0; i < 50; i++) {
 			popQuestions.addLast("Pop Question " + i);
 			scienceQuestions.addLast(("Science Question " + i));
